@@ -1,4 +1,4 @@
-# Portfolio Tracker Database
+# Portfolio Tracker Database (on SQLite)
 
 By Nicolas Fabian Adell
 
