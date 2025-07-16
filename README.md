@@ -18,4 +18,4 @@ LinkedIn: nicolas fabian adell
 
 https://www.linkedin.com/in/nicolas-fabian-adell/
 
-GitHub: github.com/nicolasadell
+GitHub: https://www.github.com/nicolasadell
