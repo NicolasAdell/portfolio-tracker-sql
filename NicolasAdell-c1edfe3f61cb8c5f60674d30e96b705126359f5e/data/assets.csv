@@ -1,0 +1,9 @@
+id,type,name,ticker,sector
+1,stock,Apple Inc,AAPL,Technology
+2,stock,Microsoft Corp,MSFT,Technology
+3,stock,Johnson & Johnson,JNJ,Healthcare
+4,crypto,Bitcoin,BTC,Cryptocurrency
+5,etf,Vanguard Total Stock Market,VTI,Diversified
+6,stock,Tesla Inc,TSLA,Automotive
+7,etf,iShares MSCI Emerging Markets,EIMI,Emerging Markets
+8,crypto,Ethereum,ETH,Cryptocurrency

@@ -1,0 +1,6 @@
+id,username,password,names,surnames,balance
+1,nicolas,hashedpass123,Nicolás,Adell,12000.50
+2,jane_doe,pass456,Jane,Doe,8000.00
+3,john_smith,secret789,John,Smith,3500.75
+4,alice99,alicepwd,Alice,Anderson,9500.00
+5,bob_the_investor,bobsecure,Bob,Jones,10500.25
